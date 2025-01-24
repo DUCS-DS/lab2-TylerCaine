@@ -22,6 +22,7 @@ print(monotonic([7,6,5,4,3,2,1]))
 print(monotonic([11,8,20,7,6,5,100]))
 print(monotonic([100]))
 print(monotonic([]))
+print(monotonic([1,3,1,3,4,5,32,1]))
 
 
 
